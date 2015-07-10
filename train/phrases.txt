@@ -1,0 +1,97 @@
+cannot reproduce
+is not reproducable
+ready for QA
+ready for quality assurance
+rejected
+reject
+does not work
+ready for development
+needs review
+it's broken
+does not work on staging
+ship
+ship it
+push it live
+push it to staging
+i cannot reproduce on my machine
+this is not reproducable
+fix it
+it broke again
+it works on my computer
+it does not work on chrome
+it does not work on firefox
+it does not work on safari
+it does not work on internet explorer
+opera
+html
+javascript
+svg
+line height
+padding
+can add some extra padding?
+it doesn't look right
+what is this thing
+help me
+debug
+debugging
+debugging the issue
+look at the jira board
+automated testing
+did you test it?
+test it
+Kanban board
+grab bab
+work on grab bag
+this needs design
+this needs review
+in development
+it's in development
+peer review
+did you peer review this?
+ready for release
+it's ready for release
+release it
+launch it
+I don't care
+the css doesn't work
+my brain hurts
+update on staging
+make this tweak
+how long will it take?
+throttle all ajax calls
+the icon disappeared
+you're muted
+jira
+how is that going to impact...
+story point
+"cough, cough"
+epics
+we can table this
+he's on vacation
+it's on code review
+next sprint
+client feedback
+i'm waiting on design
+i have some concerns
+backlog
+tickets
+testing
+sorry i'm late
+we're doing agile wrong
+we can't demo that
+i'll go
+velocity is too slow
+for the demo
+low hanging fruit
+do the low hanging fruit first
+3 hours
+priority
+deploy tonight
+you're late
+2 days
+i'll get it done soon
+I don't understand
+can you explain?
+integration testing
+send it back
+user testing

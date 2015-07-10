@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 32px;
+  margin: 0 0 40px;
+}
+
+p {
+  margin: 0 0 20px 0;
+  font-size: 16px;
+}
+
+button {
+  appearance: none;
+  font-size: 32px;
+  padding: 0;
+  text-decoration: underline;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 20px;
+}
