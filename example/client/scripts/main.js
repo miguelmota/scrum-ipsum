@@ -1,7 +1,7 @@
 (function() {
   var article = document.getElementById('article');
   var generate = document.getElementById('generate');
-  var count = document.getElementById('count');
+  //var count = document.getElementById('count');
 
   getData();
 
@@ -9,8 +9,8 @@
     getData();
   }, false);
 
-  function getData(n) {
-    var url = 'http://localhost:8569/?count=' + (n>>0);
+  function getData() {
+    var url = 'http://scrum-ipsum.moogs.io:8569/';
 
     var xhr = new XMLHttpRequest();
     xhr.open('GET', url, false );
