@@ -1,6 +1,6 @@
 {
   "name": "scrum-ipsum",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Scrum lorem ipsum generator",
   "main": "index.js",
   "directories": {
@@ -9,6 +9,9 @@
   "scripts": {
     "test": "tape test/*.js",
     "example": "browserify -t brfs example/main.js > example/dist/bundle.js"
+  },
+  "bin": {
+    "scrum_ipsum": "bin/scrum_ipsum"
   },
   "repository": {
     "type": "git",
@@ -43,6 +46,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "markov": "0.0.7"
+    "markov": "0.0.7",
+    "meow": "^5.0.0"
   }
 }
