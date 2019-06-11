@@ -10,8 +10,6 @@
 
 ## Getting started
 
-Using module:
-
 ```javascript
 const ipsum = require('scrum-ipsum')
 
@@ -19,7 +17,7 @@ const text = ipsum.generate(100)
 console.log(text) // planning velocity business it alignment daily scrum mix product burndown chart ...
 ```
 
-# CLI
+### CLI
 
 ```bash
 $ scrum --help
