@@ -12,9 +12,12 @@ generate.addEventListener('click', function() {
 
 function getData() {
   setText(`
+    ${ipsum.generate(25)}
+    ${ipsum.generate(50)}
+    ${ipsum.generate(75)}
+    ${ipsum.generate(100)}
     ${ipsum.generate(200)}
     ${ipsum.generate(300)}
-    ${ipsum.generate(100)}
   `)
 }
 

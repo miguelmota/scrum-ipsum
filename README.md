@@ -6,7 +6,7 @@
 
 [https://lab.miguelmota.com/scrum-ipsum](https://lab.miguelmota.com/scrum-ipsum)
 
-<img width="800" alt="Screen Shot 2019-06-10 at 9 30 08 PM" src="https://user-images.githubusercontent.com/168240/59243865-f9aa8c00-8bc6-11e9-8105-0154ee02b18e.png">
+<img width="800" alt="screenshot" src="https://user-images.githubusercontent.com/168240/59244244-8b66c900-8bc8-11e9-9243-0f4599c820d5.png">
 
 ## Usage
 

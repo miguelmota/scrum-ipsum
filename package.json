@@ -1,6 +1,6 @@
 {
   "name": "scrum-ipsum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scrum lorem ipsum generator",
   "main": "index.js",
   "directories": {
