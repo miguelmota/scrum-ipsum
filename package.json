@@ -2,15 +2,13 @@
   "name": "scrum-ipsum",
   "version": "0.0.1",
   "description": "Scrum lorem ipsum generator",
-  "main": "scrum-ipsum.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
-  "files": [
-    "scrum-ipsum.js"
-  ],
   "scripts": {
-    "test": "./node_modules/tape/bin/tape test/*.js"
+    "test": "tape test/*.js",
+    "example": "browserify -t brfs example/main.js > example/dist/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -20,12 +18,13 @@
     "lorem",
     "ipsum",
     "scrum",
-    "agile"
+    "agile",
+    "generator"
   ],
   "author": {
     "name": "Miguel Mota",
     "email": "hello@miguelmota.com",
-    "url": "http://www.miguelmota.com/"
+    "url": "https://miguelmota.com/"
   },
   "license": {
     "type": "MIT",
@@ -36,7 +35,9 @@
   },
   "homepage": "https://github.com/miguelmota/scrum-ipsum",
   "devDependencies": {
-    "tape": "^3.0.3"
+    "brfs": "^2.0.2",
+    "browserify": "^16.2.3",
+    "tape": "^4.10.2"
   },
   "engines": {
     "node": ">=0.10.0"
